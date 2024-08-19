@@ -2,11 +2,11 @@
 This is a simple Todo List App that allows users to create, manage, and save tasks in the browser's local storage. It's built using HTML, CSS, JavaScript, and Bootstrap for styling.
 
 ### Features
-Add Tasks: Users can input tasks using a text field and add them to their list.
-Save Tasks: Tasks are stored in local storage, so they persist between browser sessions.
-Mark as Complete: Users can mark tasks as completed by checking the checkbox next to each task.
-Delete Tasks: Users can delete tasks by clicking the trash icon next to each task.
-Responsive Design: The app is responsive and works well on both mobile and desktop devices.
+- Add Tasks: Users can input tasks using a text field and add them to their list.
+- Save Tasks: Tasks are stored in local storage, so they persist between browser sessions.
+- Mark as Complete: Users can mark tasks as completed by checking the checkbox next to each task.
+- Delete Tasks: Users can delete tasks by clicking the trash icon next to each task.
+- Responsive Design: The app is responsive and works well on both mobile and desktop devices.
 ### Technologies Used
 - HTML
 - CSS
