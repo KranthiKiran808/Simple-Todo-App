@@ -32,12 +32,10 @@ Delete tasks by clicking the trash icon.
 
 ### File Structure
 
-bash
-Copy code
-├── index.html         # Main HTML file
-├── index.css          # CSS file for styling
-├── index.js           # JavaScript file with functionality
-├── README.md          # Project documentation
+- index.html         # Main HTML file
+- index.css          # CSS file for styling
+- index.js           # JavaScript file with functionality
+- README.md          # Project documentation
 
 ### Dependencies
 
