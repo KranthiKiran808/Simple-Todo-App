@@ -43,7 +43,7 @@ Copy code
 
 - Bootstrap - A CSS framework for responsive design.
 - FontAwesome - Icons for the delete button.
-- - Google Fonts - Custom fonts (Roboto).
+- Google Fonts - Custom fonts (Roboto).
 - Future Enhancements
 - Add drag-and-drop functionality to reorder tasks.
 - Add due dates and task priority levels.
